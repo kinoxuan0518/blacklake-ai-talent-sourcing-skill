@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Talent Sourcing"
+  short_description: "Daily sourcing loop for manufacturing AI talent"
+  brand_color: "#25635B"
+  default_prompt: "Use $blacklake-ai-talent-sourcing to run a daily public-source AI talent sourcing workflow and prepare verified outreach drafts."
+policy:
+  allow_implicit_invocation: true
