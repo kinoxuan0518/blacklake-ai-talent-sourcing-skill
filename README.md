@@ -1,4 +1,4 @@
-# BlackLake AI Talent Sourcing Skill
+# AI Talent Sourcing Skill
 
 A privacy-safe Codex skill for running a daily AI talent sourcing workflow in manufacturing engineering software scenarios.
 
